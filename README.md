@@ -1,4 +1,4 @@
-### Hi there 
+<!-- ### Hi there 
 
 ## How much I'm being monitored
 <img src="https://gpvc.arturio.dev/deadpineapple" alt="Profile views"/>
@@ -9,8 +9,6 @@
 
 
 ## LeetCode! ([profile](https://leetcode.com/TofuMonster/))
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats) -->
 
 
